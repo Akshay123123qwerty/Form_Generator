@@ -7,3 +7,6 @@ Dynamic Form Generator is a web-based tool designed to streamline the creation o
 The idea is that as the user types or modifies the JSON in the editor on the left, the form on the right is automatically updated to reflect the changes.
 
 ![Screenshot (526)](https://github.com/user-attachments/assets/2b6ba8b9-7ef4-41b8-8fd5-7c0242b1fb75)
+
+<img src="![Screenshot (526)](https://github.com/user-attachments/assets/2b6ba8b9-7ef4-41b8-8fd5-7c0242b1fb75)" alt="Image" style="margin-bottom: 20px;">
+This is some text below the image.
